@@ -116,7 +116,7 @@ const App = () => {
             <Button
               title="Cancelar"
               onPress={() => setModalVisible(false)}
-              color="red"
+              color="#BF8CF9"
             />
           </View>
         </View>
